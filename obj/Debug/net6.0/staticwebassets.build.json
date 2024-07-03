@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MFIMcg3FeoyWWXcP3kA+zIz5rsZZgk3jvxTUfMKwamM=",
+  "Source": "WebAPI_JWT_Authorize",
+  "BasePath": "_content/WebAPI_JWT_Authorize",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
